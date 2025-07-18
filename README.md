@@ -5,7 +5,8 @@ This project uses **Power BI** for interactive dashboarding and **Python (Colab)
 
 ## 📊 Dashboard Overview
 
-<img width="1520" height="838" alt="{81535528-0776-4498-897A-355516AB1D0A}" src="https://github.com/user-attachments/assets/14555eb5-641b-4b11-a0ae-88f17c1dc7fb" />
+<img width="1522" height="853" alt="{EDA53190-C53B-4524-9F70-8CA0B0539BEA}" src="https://github.com/user-attachments/assets/8db7a1fc-832a-4ade-93e0-e835a10c352b" />
+
 
 The Power BI dashboard includes:
 - Summary metrics (Total Cases, YoY Changes)
